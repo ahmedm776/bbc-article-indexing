@@ -1,0 +1,101 @@
+{
+  "article_roots": 2,
+  "duplicate_roots_verified_equal": true,
+  "chosen_root_relative": "BBC News Summary/News Articles",
+  "all_txt_files": 8900,
+  "duplicate_content_policy": "Keep distinct article IDs, report exact content duplicates rather than silently delete. Duplicate content is not independent evidence and can repeat in search hits.",
+  "articles": 2225,
+  "unique_ids": 2225,
+  "category_counts": {
+    "business": 510,
+    "entertainment": 386,
+    "politics": 417,
+    "sport": 511,
+    "tech": 401
+  },
+  "encoding_counts": {
+    "utf-8": 2224,
+    "cp1252": 1
+  },
+  "unique_content_hashes": 2127,
+  "vocabulary_terms": 27906,
+  "tfidf_shape": [
+    2225,
+    27609
+  ],
+  "manifest_sha256": "e93e8d40c07a10e41bada7173f2c1fb56848baa34507e4059ead9ea73acaa331",
+  "query_sanity": {
+    "football world cup": [
+      {
+        "id": "sport/132.txt",
+        "score": 0.3318786775039331
+      },
+      {
+        "id": "sport/374.txt",
+        "score": 0.26808480149460445
+      },
+      {
+        "id": "sport/149.txt",
+        "score": 0.254470142711736
+      }
+    ],
+    "bank interest rates": [
+      {
+        "id": "business/137.txt",
+        "score": 0.5757047151196708
+      },
+      {
+        "id": "business/151.txt",
+        "score": 0.5033933498861333
+      },
+      {
+        "id": "business/438.txt",
+        "score": 0.40168234380593615
+      }
+    ],
+    "election parliament": [
+      {
+        "id": "politics/401.txt",
+        "score": 0.44640135702880557
+      },
+      {
+        "id": "politics/397.txt",
+        "score": 0.28441872052215805
+      },
+      {
+        "id": "politics/207.txt",
+        "score": 0.2631620165031582
+      }
+    ],
+    "mobile phone technology": [
+      {
+        "id": "tech/069.txt",
+        "score": 0.5068357102112526
+      },
+      {
+        "id": "tech/109.txt",
+        "score": 0.4618126370941835
+      },
+      {
+        "id": "tech/054.txt",
+        "score": 0.42439507193131865
+      }
+    ],
+    "film music awards": [
+      {
+        "id": "tech/046.txt",
+        "score": 0.3220498667256063
+      },
+      {
+        "id": "entertainment/352.txt",
+        "score": 0.30582971187802244
+      },
+      {
+        "id": "entertainment/099.txt",
+        "score": 0.2976187596682736
+      }
+    ],
+    "xyzzynonwordqq": []
+  },
+  "evaluation": "Unlabeled development sanity checks only, no relevance judgments/held-out retrieval metric or accuracy claim. Queries not scored against categories."
+}

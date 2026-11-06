@@ -1,0 +1,34 @@
+{
+ "tfidf_uni": {
+  "top1_strict": 132,
+  "top5_strict": 150,
+  "top1_dup": 135,
+  "top5_dup": 150,
+  "MRR_dup": 0.9436,
+  "cat_coh5": 0.8393
+ },
+ "bm25_uni": {
+  "top1_strict": 133,
+  "top5_strict": 150,
+  "top1_dup": 136,
+  "top5_dup": 150,
+  "MRR_dup": 0.9522,
+  "cat_coh5": 0.8447
+ },
+ "bm25_bigram": {
+  "top1_strict": 126,
+  "top5_strict": 150,
+  "top1_dup": 129,
+  "top5_dup": 150,
+  "MRR_dup": 0.9169,
+  "cat_coh5": 0.842
+ },
+ "tfidf_bigram": {
+  "top1_strict": 129,
+  "top5_strict": 150,
+  "top1_dup": 132,
+  "top5_dup": 150,
+  "MRR_dup": 0.9302,
+  "cat_coh5": 0.8367
+ }
+}

@@ -1,0 +1,9 @@
+{
+  "scope": "Original cells3and4 only, dataset_download replaced with actual downloaded path. No install/preprocessing reordering.",
+  "completed_cells": [
+    3
+  ],
+  "failed_cell": 4,
+  "error_type": "NameError",
+  "error": "name 'preprocess' is not defined"
+}

@@ -1,0 +1,123 @@
+{
+ "oil prices and the world economy": {
+  "business/138.txt": 1,
+  "business/152.txt": 1,
+  "business/340.txt": 1,
+  "business/144.txt": 1,
+  "business/030.txt": 1,
+  "business/182.txt": 0,
+  "business/351.txt": 1,
+  "business/381.txt": 1,
+  "business/270.txt": 1,
+  "business/420.txt": 0
+ },
+ "football premier league transfer": {
+  "sport/125.txt": 1,
+  "sport/274.txt": 1,
+  "sport/102.txt": 0,
+  "sport/160.txt": 0,
+  "sport/206.txt": 1,
+  "sport/180.txt": 0,
+  "sport/189.txt": 1,
+  "sport/159.txt": 0,
+  "business/271.txt": 0,
+  "tech/144.txt": 0
+ },
+ "election campaign and voters": {
+  "politics/415.txt": 1,
+  "politics/305.txt": 1,
+  "politics/043.txt": 1,
+  "politics/207.txt": 1,
+  "politics/394.txt": 1,
+  "politics/372.txt": 1,
+  "politics/360.txt": 1,
+  "politics/264.txt": 1,
+  "politics/313.txt": 1,
+  "politics/395.txt": 1
+ },
+ "new mobile phone technology": {
+  "tech/054.txt": 1,
+  "tech/109.txt": 1,
+  "tech/069.txt": 0,
+  "tech/098.txt": 0,
+  "tech/289.txt": 0,
+  "tech/017.txt": 0,
+  "tech/225.txt": 0,
+  "tech/212.txt": 0,
+  "tech/325.txt": 1,
+  "tech/265.txt": 1
+ },
+ "stock market falls sharply": {
+  "business/261.txt": 1,
+  "business/283.txt": 1,
+  "business/281.txt": 0,
+  "business/428.txt": 1,
+  "business/260.txt": 1,
+  "business/274.txt": 1,
+  "business/272.txt": 1,
+  "business/270.txt": 0,
+  "business/248.txt": 0,
+  "business/206.txt": 0
+ },
+ "film festival award winners": {
+  "entertainment/099.txt": 1,
+  "entertainment/102.txt": 1,
+  "entertainment/341.txt": 1,
+  "entertainment/329.txt": 0,
+  "entertainment/306.txt": 0,
+  "entertainment/309.txt": 1,
+  "entertainment/336.txt": 1,
+  "entertainment/034.txt": 1,
+  "entertainment/101.txt": 0,
+  "entertainment/042.txt": 1
+ },
+ "tennis grand slam final": {
+  "sport/473.txt": 1,
+  "sport/495.txt": 1,
+  "sport/447.txt": 1,
+  "sport/489.txt": 1,
+  "sport/503.txt": 1,
+  "sport/490.txt": 1,
+  "sport/463.txt": 1,
+  "sport/445.txt": 1,
+  "sport/462.txt": 1,
+  "sport/403.txt": 0
+ },
+ "computer virus security warning": {
+  "tech/117.txt": 1,
+  "tech/008.txt": 1,
+  "tech/252.txt": 1,
+  "tech/034.txt": 1,
+  "tech/039.txt": 1,
+  "tech/334.txt": 1,
+  "tech/177.txt": 1,
+  "tech/292.txt": 1,
+  "tech/281.txt": 1,
+  "tech/210.txt": 1
+ },
+ "interest rates mortgage lending": {
+  "business/194.txt": 1,
+  "business/085.txt": 1,
+  "business/323.txt": 1,
+  "business/137.txt": 1,
+  "business/153.txt": 0,
+  "business/151.txt": 1,
+  "business/438.txt": 1,
+  "business/177.txt": 0,
+  "business/290.txt": 1,
+  "business/329.txt": 1
+ },
+ "television reality show ratings": {
+  "entertainment/226.txt": 1,
+  "entertainment/216.txt": 1,
+  "entertainment/179.txt": 1,
+  "entertainment/170.txt": 0,
+  "entertainment/178.txt": 1,
+  "entertainment/217.txt": 0,
+  "entertainment/212.txt": 0,
+  "entertainment/191.txt": 0,
+  "entertainment/219.txt": 0,
+  "entertainment/189.txt": 0
+ },
+ "_judge": "two-stage author-built judgments, re-checkable against judged_pool.json. Original single-author judgments (same person as the system, 2026-11-04) kept for ids shared with the TF-IDF baseline pool (originals in eval/experiments/judgments_tfidf_original.json). Ids new to the hybrid pool judged separately by a different judge (AI assistant, calibrated to the original rubric, 2026-11-04); those 22 judgments also ship in eval/experiments/added_judgments.json under 'hybrid_a0.65'. Author-built behavioral evidence, not an independent benchmark."
+}

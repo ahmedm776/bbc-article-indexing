@@ -1,0 +1,422 @@
+{
+ "oil prices and the world economy": [
+  {
+   "id": "business/138.txt",
+   "score": 0.4655
+  },
+  {
+   "id": "business/152.txt",
+   "score": 0.4438
+  },
+  {
+   "id": "business/144.txt",
+   "score": 0.4425
+  },
+  {
+   "id": "business/340.txt",
+   "score": 0.3459
+  },
+  {
+   "id": "business/270.txt",
+   "score": 0.3451
+  },
+  {
+   "id": "business/030.txt",
+   "score": 0.3175
+  },
+  {
+   "id": "business/182.txt",
+   "score": 0.3079
+  },
+  {
+   "id": "business/399.txt",
+   "score": 0.2881
+  },
+  {
+   "id": "business/351.txt",
+   "score": 0.269
+  },
+  {
+   "id": "business/381.txt",
+   "score": 0.2616
+  }
+ ],
+ "football premier league transfer": [
+  {
+   "id": "sport/125.txt",
+   "score": 0.4071
+  },
+  {
+   "id": "sport/160.txt",
+   "score": 0.1669
+  },
+  {
+   "id": "tech/144.txt",
+   "score": 0.152
+  },
+  {
+   "id": "sport/102.txt",
+   "score": 0.15
+  },
+  {
+   "id": "sport/229.txt",
+   "score": 0.135
+  },
+  {
+   "id": "sport/180.txt",
+   "score": 0.127
+  },
+  {
+   "id": "sport/248.txt",
+   "score": 0.1235
+  },
+  {
+   "id": "sport/357.txt",
+   "score": 0.123
+  },
+  {
+   "id": "sport/274.txt",
+   "score": 0.111
+  },
+  {
+   "id": "sport/206.txt",
+   "score": 0.1096
+  }
+ ],
+ "election campaign and voters": [
+  {
+   "id": "politics/360.txt",
+   "score": 0.3216
+  },
+  {
+   "id": "politics/415.txt",
+   "score": 0.3129
+  },
+  {
+   "id": "politics/394.txt",
+   "score": 0.2797
+  },
+  {
+   "id": "politics/412.txt",
+   "score": 0.2658
+  },
+  {
+   "id": "politics/264.txt",
+   "score": 0.2628
+  },
+  {
+   "id": "politics/395.txt",
+   "score": 0.2468
+  },
+  {
+   "id": "politics/249.txt",
+   "score": 0.2431
+  },
+  {
+   "id": "politics/306.txt",
+   "score": 0.2337
+  },
+  {
+   "id": "politics/305.txt",
+   "score": 0.2309
+  },
+  {
+   "id": "politics/372.txt",
+   "score": 0.2308
+  }
+ ],
+ "new mobile phone technology": [
+  {
+   "id": "tech/069.txt",
+   "score": 0.4724
+  },
+  {
+   "id": "tech/109.txt",
+   "score": 0.4238
+  },
+  {
+   "id": "tech/054.txt",
+   "score": 0.4135
+  },
+  {
+   "id": "tech/225.txt",
+   "score": 0.3851
+  },
+  {
+   "id": "tech/325.txt",
+   "score": 0.3846
+  },
+  {
+   "id": "tech/212.txt",
+   "score": 0.3844
+  },
+  {
+   "id": "tech/378.txt",
+   "score": 0.3824
+  },
+  {
+   "id": "tech/017.txt",
+   "score": 0.3626
+  },
+  {
+   "id": "tech/383.txt",
+   "score": 0.3496
+  },
+  {
+   "id": "tech/098.txt",
+   "score": 0.3384
+  }
+ ],
+ "stock market falls sharply": [
+  {
+   "id": "business/283.txt",
+   "score": 0.2005
+  },
+  {
+   "id": "business/261.txt",
+   "score": 0.168
+  },
+  {
+   "id": "sport/444.txt",
+   "score": 0.1527
+  },
+  {
+   "id": "business/281.txt",
+   "score": 0.1517
+  },
+  {
+   "id": "business/206.txt",
+   "score": 0.1478
+  },
+  {
+   "id": "sport/458.txt",
+   "score": 0.1213
+  },
+  {
+   "id": "business/248.txt",
+   "score": 0.1199
+  },
+  {
+   "id": "business/046.txt",
+   "score": 0.1148
+  },
+  {
+   "id": "business/177.txt",
+   "score": 0.109
+  },
+  {
+   "id": "business/440.txt",
+   "score": 0.1005
+  }
+ ],
+ "film festival award winners": [
+  {
+   "id": "entertainment/099.txt",
+   "score": 0.4373
+  },
+  {
+   "id": "entertainment/306.txt",
+   "score": 0.376
+  },
+  {
+   "id": "entertainment/329.txt",
+   "score": 0.3707
+  },
+  {
+   "id": "entertainment/096.txt",
+   "score": 0.3706
+  },
+  {
+   "id": "entertainment/334.txt",
+   "score": 0.3706
+  },
+  {
+   "id": "entertainment/102.txt",
+   "score": 0.3245
+  },
+  {
+   "id": "entertainment/341.txt",
+   "score": 0.3245
+  },
+  {
+   "id": "entertainment/034.txt",
+   "score": 0.3157
+  },
+  {
+   "id": "entertainment/283.txt",
+   "score": 0.3012
+  },
+  {
+   "id": "entertainment/336.txt",
+   "score": 0.2814
+  }
+ ],
+ "tennis grand slam final": [
+  {
+   "id": "sport/403.txt",
+   "score": 0.3025
+  },
+  {
+   "id": "sport/473.txt",
+   "score": 0.2807
+  },
+  {
+   "id": "sport/352.txt",
+   "score": 0.2662
+  },
+  {
+   "id": "sport/396.txt",
+   "score": 0.2222
+  },
+  {
+   "id": "sport/489.txt",
+   "score": 0.2204
+  },
+  {
+   "id": "sport/490.txt",
+   "score": 0.2195
+  },
+  {
+   "id": "sport/493.txt",
+   "score": 0.2139
+  },
+  {
+   "id": "sport/447.txt",
+   "score": 0.2091
+  },
+  {
+   "id": "sport/503.txt",
+   "score": 0.1938
+  },
+  {
+   "id": "sport/495.txt",
+   "score": 0.1938
+  }
+ ],
+ "computer virus security warning": [
+  {
+   "id": "tech/039.txt",
+   "score": 0.3816
+  },
+  {
+   "id": "tech/334.txt",
+   "score": 0.3816
+  },
+  {
+   "id": "tech/008.txt",
+   "score": 0.3627
+  },
+  {
+   "id": "tech/252.txt",
+   "score": 0.3627
+  },
+  {
+   "id": "tech/117.txt",
+   "score": 0.3556
+  },
+  {
+   "id": "tech/034.txt",
+   "score": 0.3027
+  },
+  {
+   "id": "tech/210.txt",
+   "score": 0.2687
+  },
+  {
+   "id": "tech/177.txt",
+   "score": 0.2669
+  },
+  {
+   "id": "tech/292.txt",
+   "score": 0.2669
+  },
+  {
+   "id": "tech/385.txt",
+   "score": 0.2518
+  }
+ ],
+ "interest rates mortgage lending": [
+  {
+   "id": "business/194.txt",
+   "score": 0.6256
+  },
+  {
+   "id": "business/085.txt",
+   "score": 0.3674
+  },
+  {
+   "id": "business/323.txt",
+   "score": 0.3375
+  },
+  {
+   "id": "business/137.txt",
+   "score": 0.2282
+  },
+  {
+   "id": "business/438.txt",
+   "score": 0.2165
+  },
+  {
+   "id": "business/153.txt",
+   "score": 0.1983
+  },
+  {
+   "id": "business/177.txt",
+   "score": 0.1789
+  },
+  {
+   "id": "business/151.txt",
+   "score": 0.1751
+  },
+  {
+   "id": "business/121.txt",
+   "score": 0.1709
+  },
+  {
+   "id": "business/290.txt",
+   "score": 0.1649
+  }
+ ],
+ "television reality show ratings": [
+  {
+   "id": "entertainment/226.txt",
+   "score": 0.2324
+  },
+  {
+   "id": "entertainment/179.txt",
+   "score": 0.2257
+  },
+  {
+   "id": "entertainment/216.txt",
+   "score": 0.2225
+  },
+  {
+   "id": "entertainment/170.txt",
+   "score": 0.1785
+  },
+  {
+   "id": "entertainment/207.txt",
+   "score": 0.128
+  },
+  {
+   "id": "tech/115.txt",
+   "score": 0.0956
+  },
+  {
+   "id": "entertainment/191.txt",
+   "score": 0.0869
+  },
+  {
+   "id": "entertainment/178.txt",
+   "score": 0.0837
+  },
+  {
+   "id": "business/091.txt",
+   "score": 0.0801
+  },
+  {
+   "id": "entertainment/031.txt",
+   "score": 0.0779
+  }
+ ]
+}

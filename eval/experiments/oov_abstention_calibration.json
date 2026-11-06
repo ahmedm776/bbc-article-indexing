@@ -1,0 +1,12 @@
+{
+  "experiment": "OOV dense-fallback abstention calibration",
+  "status": "DEVELOPMENT-USED: this set informed the shipped abstention design and threshold; it is not held-out and cannot validate the design",
+  "date": "2026-11-04",
+  "provenance": "author-built measurement on the shipped corpus (pariza/bbc-news-summary, 2225 articles); AI-assisted analysis, not an independent human benchmark",
+  "finding": "MiniLM dense cosine scores do NOT separate nonsense from relevant out-of-vocabulary queries on this corpus; no fixed threshold or top-vs-runner-up margin abstains reliably. Scores are uncalibrated similarities, not probabilities.",
+  "relevant_oov": {"macroeconomics": 0.437, "hiking": 0.276, "fiscal stimulus package": 0.463},
+  "nonsense_or_offtopic": {"xyzzynonwordqq": 0.284, "asdfqwer zzz": 0.257, "zucchini tornado wallpaper": 0.368, "purple monkey dishwasher": 0.277, "qwqwqw vbnm": 0.330, "underwater basket weaving": 0.225, "sourdough knitting origami": 0.218},
+  "overlap": "nonsense tops reach 0.368 while relevant OOV dips to 0.276; ranges overlap",
+  "decision": "abstain deterministically on empty/whitespace/stopword-only queries; tfidf mode stays conservative no-hit for OOV; hybrid OOV dense candidates are flagged low_confidence/exploratory in output; DENSE_MIN_SIM=0.20 is a development-selected near-zero-signal guard applied to the RAW dense similarity, NOT a validated relevance guard and NOT reliable no-hit detection; returned OOV scores are scaled by (1-HYBRID_ALPHA) for weighting consistency with the hybrid arm (raw_dense_score field preserves the raw value)",
+  "false_abstention_note": "at 0.20: false-answer 'zucchini tornado wallpaper' (0.368) admitted; at 0.35: false-abstains 'hiking' (0.276) and still admits zucchini (0.368). No floor avoids both."
+}

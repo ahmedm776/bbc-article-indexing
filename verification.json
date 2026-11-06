@@ -1,0 +1,10 @@
+{
+  "tests": 10,
+  "whole_data_reruns": 2,
+  "report_and_postings_identical": true,
+  "final_source_sha256": "93205d67f1085ade896d56f5abaa9ff77a60003216b866b553d1d4068f25c9fc",
+  "original_run_scope": "cells3and4only, current data path",
+  "original_baseline_error": "NameError preprocess not defined",
+  "retrieval_quality_metric": null,
+  "redistribution": "No article data, index, excerpts or model state included"
+}

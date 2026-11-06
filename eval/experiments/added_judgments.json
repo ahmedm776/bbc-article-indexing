@@ -1,0 +1,158 @@
+{
+ "_judge": "Added judgments for candidate-variant pools, by a DIFFERENT author than the original judge (the agent running the improvement pass), made 2026-11-04 from article opening text under the original written rubric after calibrating against the original judgments' edge cases. Original judgments remain in eval/judgments.json. These exist so candidate pools are fully scored; they are not a fixed-label comparison. | hybrid_a0.65: 22 judgments by AI assistant (different judge from original), calibrated to original rubric, 2026-11-04, for ids new to the hybrid pool.",
+ "bm25_uni": {
+  "oil prices and the world economy": {
+   "business/016.txt": 0,
+   "business/098.txt": 0,
+   "business/259.txt": 0,
+   "business/294.txt": 0,
+   "business/110.txt": 0,
+   "business/295.txt": 0
+  },
+  "football premier league transfer": {
+   "sport/118.txt": 0,
+   "business/179.txt": 0,
+   "sport/186.txt": 1,
+   "sport/254.txt": 0,
+   "business/271.txt": 0
+  },
+  "election campaign and voters": {
+   "politics/414.txt": 1,
+   "politics/264.txt": 1,
+   "politics/323.txt": 1
+  },
+  "new mobile phone technology": {
+   "tech/116.txt": 0,
+   "tech/290.txt": 0,
+   "tech/064.txt": 1,
+   "tech/338.txt": 1,
+   "tech/182.txt": 1
+  },
+  "stock market falls sharply": {
+   "business/152.txt": 0,
+   "business/367.txt": 0,
+   "business/268.txt": 0,
+   "business/101.txt": 0
+  },
+  "film festival award winners": {
+   "entertainment/309.txt": 1,
+   "entertainment/337.txt": 1,
+   "entertainment/267.txt": 0,
+   "entertainment/075.txt": 1,
+   "entertainment/090.txt": 0,
+   "entertainment/101.txt": 0
+  },
+  "tennis grand slam final": {
+   "sport/442.txt": 1,
+   "sport/500.txt": 1,
+   "sport/462.txt": 1
+  },
+  "computer virus security warning": {
+   "tech/116.txt": 1,
+   "tech/290.txt": 1,
+   "tech/122.txt": 1,
+   "tech/003.txt": 1,
+   "tech/036.txt": 1
+  },
+  "interest rates mortgage lending": {
+   "business/415.txt": 1,
+   "business/326.txt": 1,
+   "business/297.txt": 0,
+   "business/072.txt": 0
+  },
+  "television reality show ratings": {
+   "entertainment/311.txt": 0,
+   "entertainment/217.txt": 0
+  }
+ },
+ "title_boost_x2": {
+  "oil prices and the world economy": {
+   "business/381.txt": 1
+  },
+  "football premier league transfer": {
+   "sport/229.txt": 0,
+   "sport/357.txt": 0
+  },
+  "election campaign and voters": {
+   "politics/412.txt": 1,
+   "politics/264.txt": 1,
+   "politics/395.txt": 1,
+   "politics/306.txt": 1,
+   "politics/372.txt": 1
+  },
+  "new mobile phone technology": {
+   "tech/383.txt": 1
+  },
+  "stock market falls sharply": {
+   "sport/444.txt": 0,
+   "sport/458.txt": 0,
+   "business/046.txt": 0,
+   "business/440.txt": 0
+  },
+  "tennis grand slam final": {
+   "sport/396.txt": 0
+  },
+  "computer virus security warning": {
+   "tech/385.txt": 1
+  },
+  "interest rates mortgage lending": {
+   "business/121.txt": 1
+  },
+  "television reality show ratings": {
+   "entertainment/207.txt": 1
+  }
+ },
+ "duplicate_collapse": {
+  "new mobile phone technology": {
+   "tech/383.txt": 1
+  },
+  "film festival award winners": {
+   "entertainment/309.txt": 1
+  },
+  "computer virus security warning": {
+   "tech/207.txt": 0,
+   "tech/083.txt": 0,
+   "tech/385.txt": 1
+  }
+ },
+ "hybrid_a0.65": {
+  "oil prices and the world economy": {
+   "business/381.txt": 1
+  },
+  "football premier league transfer": {
+   "sport/189.txt": 1,
+   "sport/159.txt": 0,
+   "business/271.txt": 0
+  },
+  "election campaign and voters": {
+   "politics/043.txt": 1,
+   "politics/372.txt": 1,
+   "politics/264.txt": 1,
+   "politics/313.txt": 1,
+   "politics/395.txt": 1
+  },
+  "new mobile phone technology": {
+   "tech/265.txt": 1
+  },
+  "stock market falls sharply": {
+   "business/428.txt": 1,
+   "business/260.txt": 1,
+   "business/272.txt": 1,
+   "business/270.txt": 0
+  },
+  "film festival award winners": {
+   "entertainment/309.txt": 1,
+   "entertainment/101.txt": 0,
+   "entertainment/042.txt": 1
+  },
+  "tennis grand slam final": {
+   "sport/463.txt": 1,
+   "sport/462.txt": 1
+  },
+  "television reality show ratings": {
+   "entertainment/217.txt": 0,
+   "entertainment/219.txt": 0,
+   "entertainment/189.txt": 0
+  }
+ }
+}
